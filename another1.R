@@ -1177,8 +1177,9 @@ for(i in 1:515)
   
 }
 
+# https://gitforwindows.org/
+
 ######################## Aliquot list ########################
 
-# try pull on other computer
-# https://gitforwindows.org/
+
 
